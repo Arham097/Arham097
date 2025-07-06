@@ -48,13 +48,6 @@
 
 ---
 
-### 🚀 Projects
-
-- **Hasan Bites** – MERN-based food ordering app with real-time order updates, image uploads, state persistence, and an admin dashboard.
-- **Al-Quran** – Responsive React app with reciters, chapter-wise navigation, and animated UI using GSAP.
-- **ExoPlanetarium** – MERN + LLaMA chatbot + 3D visuals using React Three Fiber and Firebase for blogs and quizzes.
-
----
 
 ### 📊 GitHub Stats
 
