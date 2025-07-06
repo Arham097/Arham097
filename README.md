@@ -35,7 +35,6 @@
   <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap"/>
   <img src="https://img.icons8.com/color/48/tailwind_css.png" title="Tailwind CSS"/>
   <img src="https://img.icons8.com/color/48/express.png" title="Express.js"/>
-  <img src="https://img.icons8.com/ios-filled/48/net-framework.png" title=".NET"/>
   <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/>
   <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
