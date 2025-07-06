@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Syed Arham Hasan</h1>
 <h3 align="center">A passionate Full Stack Developer and Software Engineer from Pakistan</h3>
 
@@ -28,20 +29,21 @@
   <img src="https://img.icons8.com/color/48/python--v1.png" title="Python"/>
   <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5"/>
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" title="React Native / React"/>
-    <img src="https://raw.githubusercontent.com/expo/expo/master/.github/assets/expo-icon.png" alt="Expo" width="40"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" title="React / React Native"/>
+  <img src="https://raw.githubusercontent.com/expo/expo/master/.github/assets/expo-icon.png" width="40" title="Expo"/>
   <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap"/>
   <img src="https://img.icons8.com/color/48/tailwind_css.png" title="Tailwind CSS"/>
   <img src="https://img.icons8.com/color/48/express.png" title="Express.js"/>
+  <img src="https://img.icons8.com/ios-filled/48/net-framework.png" title=".NET"/>
   <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/>
   <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
   <img src="https://img.icons8.com/color/48/postgreesql.png" title="PostgreSQL (Neon)"/>
   <img src="https://img.icons8.com/color/48/firebase.png" title="Firebase"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/>
+  <img src="https://avatars.githubusercontent.com/u/50515418?s=200&v=4" width="40" title="Laragon"/>
   <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
   <img src="https://img.icons8.com/color/48/github--v1.png" title="GitHub"/>
-  <img src="https://img.icons8.com/fluency/48/postman-api.png" title="Postman"/>
-  <img src="https://img.icons8.com/windows/48/laragon.png" title="Laragon"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
 </p>
 
@@ -60,7 +62,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arham097&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Arham097&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arham097&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -75,15 +76,14 @@
 
 ### 🏆 Achievements
 
-- 👨‍💻 CodeSphere Competitive Programming Certificate
-- 🚀 NASA Space Apps Challenge 2024 – Successful Hackathon Submission
-- 🛠 Member of Software Innovators Club
+- 👨‍💻 CodeSphere Competitive Programming Certificate  
+- 🚀 NASA Space Apps Challenge 2024 – Successful Hackathon Submission  
+- 🛠 Member of Software Innovators Club  
 - 🥇 5th Place in Web Dev @ ProBattle Hackathon 2025 (IBA)
 
 ---
 
 ### 📌 Fun Fact
-
 > 🎯 Messi scored 91 goals in a calendar year. I try to write 91 good commits a month.
 
 ---
