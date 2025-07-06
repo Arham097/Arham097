@@ -3,8 +3,9 @@
 <h3 align="center">A passionate Full Stack Developer and Software Engineer from Pakistan</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=470&lines=Currently+learning+C%23+and+.NET;Full-Stack+Engineer+%7C+MERN+Stack+%7C+React+Native;Open+Source+Contributor+%7C+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=400&lines=Currently+learning+C%23+and+.NET;Full-Stack+Engineer+%7C+MERN+Stack+%7C+React+Native;Open+Source+Contributor+%7C+Lifelong+Learner" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -30,7 +31,6 @@
   <img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5"/>
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
   <img src="https://img.icons8.com/color/48/react-native.png" title="React / React Native"/>
-  <img src="https://raw.githubusercontent.com/expo/expo/master/.github/assets/expo-icon.png" width="40" title="Expo"/>
   <img src="https://img.icons8.com/color/48/bootstrap.png" title="Bootstrap"/>
   <img src="https://img.icons8.com/color/48/tailwind_css.png" title="Tailwind CSS"/>
   <img src="https://img.icons8.com/color/48/express.png" title="Express.js"/>
@@ -41,7 +41,6 @@
   <img src="https://img.icons8.com/color/48/postgreesql.png" title="PostgreSQL (Neon)"/>
   <img src="https://img.icons8.com/color/48/firebase.png" title="Firebase"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" title="Postman"/>
-  <img src="https://avatars.githubusercontent.com/u/50515418?s=200&v=4" width="40" title="Laragon"/>
   <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
   <img src="https://img.icons8.com/color/48/github--v1.png" title="GitHub"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" title="VS Code"/>
