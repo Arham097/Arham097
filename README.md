@@ -66,18 +66,4 @@
 
 ---
 
-### 🏆 Achievements
-
-- 👨‍💻 CodeSphere Competitive Programming Certificate  
-- 🚀 NASA Space Apps Challenge 2024 – Successful Hackathon Submission  
-- 🛠 Member of Software Innovators Club  
-- 🥇 5th Place in Web Dev @ ProBattle Hackathon 2025 (IBA)
-
----
-
-### 📌 Fun Fact
-> 🎯 Messi scored 91 goals in a calendar year. I try to write 91 good commits a month.
-
----
-
 > 💬 “First, solve the problem. Then, write the code.” – John Johnson
