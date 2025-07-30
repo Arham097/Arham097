@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Developer and Software Engineer from Pakistan</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=380&lines=Learning+C%23+and+.NET;MERN+Stack+Dev;React+Native+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=380&lines=Learning+C%23+and+.NET;MERN+Stack+Dev;React+Native+Explorer" alt="Typing SVG" />
 </p>
 
 
