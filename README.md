@@ -60,4 +60,4 @@
 
 ### 🐍 GitHub Contributions Snake
 
-![snake gif](https://github.com/Arham097/Arham097/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Arham097/Arham097/blob/output/github-contribution-grid-snake.gif)
