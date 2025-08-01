@@ -60,10 +60,4 @@
 
 ### 🐍 GitHub Contributions Snake
 
-<p align="center">
-  <img src="https://github.com/Arham097/Arham097/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-> 💬 “First, solve the problem. Then, write the code.” – John Johnson
+![snake gif](https://github.com/Arham097/Arham097/blob/output/github-contribution-grid-snake.svg)
