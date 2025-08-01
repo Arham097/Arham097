@@ -59,5 +59,4 @@
 ---
 
 ### 🐍 GitHub Contributions Snake
-
 ![snake gif](https://github.com/Arham097/Arham097/blob/output/github-snake.svg)
